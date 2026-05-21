@@ -1,7 +1,7 @@
 const crypto = require('crypto');
 const fs = require('fs');
 const readline = require('readline');
-console.log('Matheus')
+console.log('Matheus Gostosão')
 
 // Função para gerar uma string aleatória
 const generateRandomString = (length) => {
