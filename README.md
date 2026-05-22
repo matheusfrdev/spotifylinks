@@ -1,5 +1,5 @@
 ##  `1º` **|** Spotify Links 🎧🟢 
-##### Gerador feito para criar links promocionais de 3 meses do Spotify. A ideia é deixar o processo mais simples, economizando tempo e facilitando o acesso a promoções para aproveitar recursos como ouvir músicas sem anúncios e usar a plataforma com mais liberdade.
+### Gerador feito para criar links promocionais de 3 meses do Spotify. A ideia é deixar o processo mais simples, economizando tempo e facilitando o acesso a promoções para aproveitar recursos como ouvir músicas sem anúncios e usar a plataforma com mais liberdade.
 
 ## `2º` **|** Preview 📷
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/19a9c80a-a361-434e-9a1f-98fc95330111" />
